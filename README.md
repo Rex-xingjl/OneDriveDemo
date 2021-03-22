@@ -21,8 +21,11 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 
 *特别要注意 API配置 这个选项 如果不配置则不能访问这些功能
+
 User.Read
+
 Files.ReadWrite.All
+
 Demo中GraphAuthSettings.plist文件内改为对应你的appid 以及这些scopes
 
 如果遇到了一些问题，可以issue我一同探究。
