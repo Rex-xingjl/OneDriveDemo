@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GraphScopes</key>
+	<array>
+		<string>User.Read</string>
+		<string>Files.ReadWrite.All</string>
+	</array>
+	<key>AppId</key>
+	<string>a035c4f5-a6f0-4228-9569-4b6f0ddbd378</string>
+</dict>
+</plist>
