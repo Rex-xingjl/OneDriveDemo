@@ -17,10 +17,10 @@
 
 https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
 
-注册完成后，需要编辑APP的各平台信息。同时后台服务器要配置一个
+注册完成后，需要编辑APP的各平台信息以及API配置。
 
 
-*特别要注意 API配置 这个选项 如果不配置则不能访问这些功能
+*特别要注意 API配置 这个选项 如果不配置则无权限访问这些功能
 
 User.Read
 
